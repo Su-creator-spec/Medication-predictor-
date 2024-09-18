@@ -1,0 +1,2 @@
+# Medication-predictor
+ Disease Prediction Website This AI-powered website predicts diseases based on user-provided symptoms. Trained on diverse datasets, it offers personalized recommendations for medication, precautions, workouts, and diets. Built using Flask, this project leverages machine learning and artificial intelligence to enhance healthcare accessibility and provide reliable health insights. Feel free to tweak it as needed! If you need any more help, just let me know.
